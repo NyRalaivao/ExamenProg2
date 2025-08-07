@@ -77,6 +77,7 @@ public class Combattant {
         System.out.println(prenom + " " + nom + " allias " + nom_combattant);
     }
     public static void main(String[] args) {
+
         Combattant Bolo = new Combattant("CB35",
                 "RAKOTO",
                 "Solofo",
